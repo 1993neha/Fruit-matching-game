@@ -9,9 +9,9 @@ Currently, two official plugins are available:
 
 A very interesting fruit matching game.
 
-## idear to make different app:
+## Idea to make different in this app:
 
-- Use other picture like letter or any emojes.
+- Use other pictures like letters or any emojes.
 - Modify user interface as per your ideas.
 - You can edit buttons.
   
